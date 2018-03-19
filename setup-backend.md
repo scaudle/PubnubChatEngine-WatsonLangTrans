@@ -88,7 +88,7 @@ Login to [PubNub](https://admin.pubnub.com) with your credentials and then head 
 
 ![PubNub](screenshots/pubnub-6.png)
 
-* Within the function, two modules are already created and running. These are required for Chat Engine functionality. We need to create one more module within this function to access Watson conversation service from within PubNub. Click on the '+CREATE' button which will pop-up a 'Create a New Function' dialog box.
+* Within the function, two modules are already created and running. These are required for Chat Engine functionality. We need to create one more module within this function to access Watson Langauge Translator service from within PubNub. Click on the '+CREATE' button which will pop-up a 'Create a New Function' dialog box.
 
 ![PubNub](screenshots/pubnub-7.png)
 
